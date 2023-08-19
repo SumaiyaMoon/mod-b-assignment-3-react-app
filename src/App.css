@@ -4,7 +4,7 @@
   box-sizing: border-box !important;
 }
 body{
-  background-color:rgb(255, 249, 249);
+  background-color:rgb(255, 255, 255);
 }
 .bg_img{
   background-image: url(images/bg-img.jpg);
@@ -69,4 +69,15 @@ body{
 }
 ul{
   list-style-type: none;
+}
+.work_process i{
+  color: rgb(255, 34, 0);
+  border: 2px solid whitesmoke;
+  border-radius: 100%;
+  box-shadow: 2px 2px 2px rgb(210, 210, 210);
+  font-weight: 200 !important;
+  font-size: 32px;
+}
+a{
+  text-decoration: none;
 }
